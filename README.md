@@ -54,4 +54,13 @@ Email address: admin@example.com
 Password: pssw123.
 ```
 
+8. Endpoints
+
+> /users/...
+> /groups/...
+> /api-auth/login/
+> /api-auth/logout/
+> /admin/
+
+
 By [dcarolinahdev](https://github.com/dcarolinahdev)
